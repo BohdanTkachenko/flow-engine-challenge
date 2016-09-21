@@ -1,0 +1,26 @@
+{
+  "name": "flow-engine-challenge",
+  "version": "1.0.0",
+  "description": "flow engine challenge",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanTkachenko/flow-engine-challenge.git"
+  },
+  "author": "Bohdan Tkachenko <bohdan@tkachenko.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BohdanTkachenko/flow-engine-challenge/issues"
+  },
+  "homepage": "https://github.com/BohdanTkachenko/flow-engine-challenge#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "sinon": "^1.17.6"
+  }
+}
