@@ -11,3 +11,6 @@ You can run this code just from your browser by opening `src/index.html`. Please
 - Checks that rule set is not circular when running flow
 
 You can open `tests/runner.html` in your browser to run unit tests.
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/BohdanTkachenko/flow-engine-challenge.svg)](https://greenkeeper.io/)
